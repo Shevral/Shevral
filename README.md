@@ -24,14 +24,14 @@ I also have a very smart dog named Edison — he’s a Border Collie.<br />
 
 <br><br><br><br>
 
-## 👨‍💼 My latest workplaces <br>
+## 👨‍💼 My Recent Workplaces <br>
 - [Sellace](https://sellace.pl/)
 - [ICEA](https://www.grupa-icea.pl/)
 - [PKT.PL](https://www.pkt.pl/)
 <br><br>
 
 
-## 👨‍💻 Older projects <br>
+## 👨‍💻 Selected Projects <br>
 - [Lisi projekt - Custom-made furniture design](https://projekt2.intype.pl/)
 - [Gigant Pizza - Pizza restaurant](https://gigantpizza.pl/)
 - [Dream House - Interior design](https://projekt6.intype.pl/)

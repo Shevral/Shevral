@@ -4,11 +4,10 @@
 
   
 #  👨 About me
-My name is Bart and I working as <strong>WebDesigner</strong>, <strong>WebDeveloper</strong>, <strong>Front-end Developer</strong> with some <strong>Back-end Developer</strong> skills.<br />
-I'm doing my job remotly from home in Bydgoszcz, Poland. <br /> 
-Privatly I have few hobbies like survival, bushcrafting, military, motorcycles, travels and trekking. <br />
-I have a very smart dog, his name is Edison and he is Border Collie race. <br />
-
+My name is Bart, and I work as a <strong>Web Designer</strong> and <strong>Web Developer</strong>, mainly focused on <strong>Front-end development</strong> with additional <strong>Back-end skills</strong>.<br />
+I currently work remotely from my home in Bydgoszcz, Poland.<br />
+Privately, I enjoy hobbies such as survival, bushcraft, military topics, motorcycles, traveling, and trekking.<br />
+I also have a very smart dog named Edison — he’s a Border Collie.<br />
 
 <br>
 

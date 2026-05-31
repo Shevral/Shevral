@@ -25,4 +25,4 @@ I also have a very smart dog named Edison — he’s a Border Collie.
 ## 📧 Feel Free to Contact Me
 - <strong>Portfolio:</strong>  <a href="https://bszewczyk.intype.pl">bszewczyk.intype.pl</a>  
 - <strong>Email:</strong> <a href="mailto:bszewczyk@intype.pl">bszewczyk@intype.pl</a>  
-- <strong>Telephone / WhatsApp:</strong> +48 510-922-448
+- <strong>Telephone / WhatsApp:</strong> <a href="tel:+48510922448">510-922-448</a>

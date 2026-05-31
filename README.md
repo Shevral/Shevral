@@ -22,21 +22,7 @@ I also have a very smart dog named Edison — he’s a Border Collie.
 
 <br><br><br><br>
 
-## 👨‍💼 My Recent Workplaces
-- <a href="https://sellace.pl/" target="_blank">Sellace</a>
-- <a href="https://www.grupa-icea.pl/" target="_blank">ICEA</a>
-- <a href="https://www.pkt.pl/" target="_blank">PKT.PL</a>
-
-<br>
-
-## 👨‍💻 Selected Projects
-- <a href="https://projekt2.intype.pl/" target="_blank">Lisi Projekt – Custom-made furniture design</a>  
-- <a href="https://gigantpizza.pl/" target="_blank">Gigant Pizza – Pizza restaurant website</a>  
-- <a href="https://projekt6.intype.pl/" target="_blank">Dream House – Interior design website</a>  
-- <a href="https://projekt4.intype.pl/" target="_blank">Open Lock – Marketing agency website</a>  
-
-<br>
-
 ## 📧 Feel Free to Contact Me
+- <strong>Portfolio:</strong>  <a href="https://bszewczyk.intype.pl">bszewczyk.intype.pl</a>  
 - <strong>Email:</strong> <a href="mailto:bszewczyk@intype.pl">bszewczyk@intype.pl</a>  
 - <strong>Telephone / WhatsApp:</strong> +48 510-922-448
